@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\bin\Debug\net8.0-windows\hellowold.exe
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\bin\Debug\net8.0-windows\hellowold.deps.json
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\bin\Debug\net8.0-windows\hellowold.runtimeconfig.json
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\bin\Debug\net8.0-windows\hellowold.dll
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\bin\Debug\net8.0-windows\hellowold.pdb
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.sourcelink.json
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.dll
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\refint\hellowold.dll
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.pdb
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\hellowold.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_2_Sharp\114_02_20\hellowold\hellowold\obj\Debug\net8.0-windows\ref\hellowold.dll
