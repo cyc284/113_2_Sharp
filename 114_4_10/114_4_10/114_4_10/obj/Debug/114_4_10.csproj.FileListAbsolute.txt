@@ -1,0 +1,10 @@
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\bin\Debug\114_4_10.exe.config
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\bin\Debug\114_4_10.exe
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\bin\Debug\114_4_10.pdb
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\obj\Debug\114_4_10.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\obj\Debug\_114_4_10.Form1.resources
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\obj\Debug\_114_4_10.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\obj\Debug\114_4_10.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\obj\Debug\114_4_10.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\obj\Debug\114_4_10.exe
+C:\Users\w401\Desktop\113_2_Sharp\114_4_10\114_4_10\114_4_10\obj\Debug\114_4_10.pdb
