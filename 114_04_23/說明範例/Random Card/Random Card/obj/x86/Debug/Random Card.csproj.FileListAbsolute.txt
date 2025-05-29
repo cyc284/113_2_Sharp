@@ -1,0 +1,10 @@
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\bin\Debug\Random Card.exe.config
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\bin\Debug\Random Card.exe
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\bin\Debug\Random Card.pdb
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\obj\x86\Debug\Random_Card.Form1.resources
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\obj\x86\Debug\Random_Card.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\obj\x86\Debug\Random Card.exe
+C:\Users\w401\Desktop\113_2_Sharp\114_04_23\說明範例\Random Card\Random Card\obj\x86\Debug\Random Card.pdb

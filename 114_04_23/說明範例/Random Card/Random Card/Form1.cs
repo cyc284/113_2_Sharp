@@ -15,5 +15,11 @@ namespace Random_Card
         {
             InitializeComponent();
         }
+
+        private void getCardButton_Click(object sender, EventArgs e)
+        {
+            Random rand = new Random();
+            
+        }
     }
 }
